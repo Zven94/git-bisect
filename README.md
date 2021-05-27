@@ -29,7 +29,7 @@ $ npm run start # this will make webpack watching for your changes in code
 
 ### Open page in browser
 ```bash
-$ open dist/index.html 
+$ open dist/index.html
 ```
 
 
