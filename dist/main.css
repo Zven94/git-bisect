@@ -1,0 +1,9 @@
+.logo {
+  height: 60px;
+}
+
+@media (min-width: 1100px) {
+  .carousel-inner {
+    height: 600px;
+  }
+}
