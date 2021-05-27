@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acushlakoncept/buggy-js-restaurant-page.git"
+    "url": "git+https://github.com/microverseinc/curriculum-tools-buggy-restaurant.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acushlakoncept/buggy-js-restaurant-page/issues"
+    "url": "https://github.com/microverseinc/curriculum-tools-buggy-restaurant/issues"
   },
   "homepage": "https://github.com/microverseinc/curriculum-tools-buggy-restaurant#readme",
   "devDependencies": {
