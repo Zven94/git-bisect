@@ -70,7 +70,7 @@ const aboutInfo = `
     For anyone who shares the same passion as me and would love to watch
     and learn more, do well to subscribe (so you will be the first to be
     notified when I upload a new video), share and give my videos a thumbs
-    up. Checkout my <a href="https://www.youtube.com/channel/UCNRhWLhBFVZFrPiC5T2xCQA/videos" target="_blank">YouTube Channel</a> 
+    up.</a> 
   </p>
 </div>
 </div>
