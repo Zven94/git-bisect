@@ -39,7 +39,6 @@ const menuItem = `
   <div class="card-body">
    <h5>Beef Sauce</h5>
     <p class="card-text">₦2,500.00/plate</p>
-  </div>
 </div>
 
 <div class="card m-2" style="width: 30rem;">
