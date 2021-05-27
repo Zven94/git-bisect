@@ -6,7 +6,7 @@ const contact = `
     <h4>Reach out to us today and have us amaze you</h4>
   <p class="lead">
   <address>
-  <strong>Phone/WhatsApp:</strong> +234 706 000 0000<br>
+  <strong>Phone/WhatsApp:</strong> +234 706 222 0000<br>
   <strong>Instagram:</strong> @exquisitekitchen 
   </address>
   </p>

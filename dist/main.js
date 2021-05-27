@@ -139,7 +139,7 @@ eval("var g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn th
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\nconst content = document.getElementById('content');\n\nconst contact = `\n<div class=\"container p-2 mt-3\">\n    <h1 class=\"border-bottom\">Contact Us</h1>\n    <h4>Reach out to us today and have us amaze you</h4>\n  <p class=\"lead\">\n  <address>\n  <strong>Phone/WhatsApp:</strong> +234 706 000 0000<br>\n  <strong>Instagram:</strong> @exquisitekitchen \n  </address>\n  </p>\n</div>\n`;\n\nconst renderContact = () => {\n  content.insertAdjacentHTML('beforeend', contact);\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (renderContact);\n\n\n//# sourceURL=webpack:///./src/contact.js?");
+eval("__webpack_require__.r(__webpack_exports__);\nconst content = document.getElementById('content');\n\nconst contact = `\n<div class=\"container p-2 mt-3\">\n    <h1 class=\"border-bottom\">Contact Us</h1>\n    <h4>Reach out to us today and have us amaze you</h4>\n  <p class=\"lead\">\n  <address>\n  <strong>Phone/WhatsApp:</strong> +234 706 222 0000<br>\n  <strong>Instagram:</strong> @exquisitekitchen \n  </address>\n  </p>\n</div>\n`;\n\nconst renderContact = () => {\n  content.insertAdjacentHTML('beforeend', contact);\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (renderContact);\n\n\n//# sourceURL=webpack:///./src/contact.js?");
 
 /***/ }),
 
