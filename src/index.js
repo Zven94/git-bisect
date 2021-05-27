@@ -25,7 +25,7 @@ const removeActive = () => {
 
 tabLinks.forEach((link) => {
   link.addEventListener('click', (e) => {
-    if (e.target.textContent === 'Home') {
+    if (e.target.textContent === 'About') {
       removeActive();
       e.target.classList.add('active');
       renderPage(content, renderHome);

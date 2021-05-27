@@ -9,7 +9,7 @@ const nav = `
     </a>
   </li>
   <li class="nav-item pt-4">
-    <a class="nav-link active" href="#">Home</a>
+    <a class="nav-link active" href="#">About</a>
   </li>
   <li class="nav-item pt-4">
     <a class="nav-link" href="#">Menu</a>
